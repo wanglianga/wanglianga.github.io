@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wanglianga.github.io/"/>
-  <updated>2017-04-11T07:56:48.478Z</updated>
+  <updated>2017-04-11T10:47:01.548Z</updated>
   <id>https://wanglianga.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://wanglianga.github.io/2017/04/11/my-first-blog/"/>
     <id>https://wanglianga.github.io/2017/04/11/my-first-blog/</id>
     <published>2017-04-11T02:45:24.000Z</published>
-    <updated>2017-04-11T07:56:48.478Z</updated>
+    <updated>2017-04-11T10:47:01.548Z</updated>
     
     <content type="html"><![CDATA[<p>这是我的第一篇博客</p>
 ]]></content>
@@ -32,6 +32,8 @@
     
     </summary>
     
+      <category term="生活" scheme="https://wanglianga.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
     
       <category term="生活" scheme="https://wanglianga.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
@@ -42,7 +44,7 @@
     <link href="https://wanglianga.github.io/2017/04/11/hello-world/"/>
     <id>https://wanglianga.github.io/2017/04/11/hello-world/</id>
     <published>2017-04-11T02:39:08.218Z</published>
-    <updated>2017-04-11T02:39:08.218Z</updated>
+    <updated>2017-04-11T10:46:49.835Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -61,6 +63,10 @@
     
     </summary>
     
+      <category term="技术人生" scheme="https://wanglianga.github.io/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    
+    
+      <category term="技术" scheme="https://wanglianga.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
