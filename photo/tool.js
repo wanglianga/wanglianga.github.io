@@ -1,11 +1,12 @@
-var fs = require("fs");
-    var path = "../../photos";
+"use strict";
+    const fs = require("fs");
+    const path = "../../photos";
 
     fs.readdir(path, function (err, files) {
         if (err) {
             return;
         }
-        var arr = [];
+        let arr = [];
         (function iterator(index) {
             if (index == files.length) {
                 fs.writeFile("output.json", JSON.stringify(arr, null, "\t"));
